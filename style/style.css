@@ -1,0 +1,162 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  height: 100vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-container {
+  width: 90vw;
+  position: absolute;
+  left: 4rem;
+}
+
+.logo {
+  position: relative;
+  top: 3rem;
+  width: 7rem;
+  height: 3rem;
+  left: 1rem;
+}
+
+.list {
+  width: 40vw;
+  list-style: none;
+  position: relative;
+  left: 18rem;
+  font-weight: 300;
+  font-size: large;
+}
+
+.list-item1 {
+  position: relative;
+  top: 1.4rem;
+  font-weight: bold;
+}
+.list-item2 {
+  position: relative;
+  left: 8.5rem;
+}
+.list-item3 {
+  position: relative;
+  left: 17rem;
+  bottom: 1.5rem;
+}
+.list-item4 {
+  position: relative;
+  left: 25.5rem;
+  bottom: 2.9rem;
+}
+.list-item5 {
+  position: relative;
+  left: 34rem;
+  bottom: 4.5rem;
+}
+.button-group {
+  width: 16rem;
+  position: absolute;
+  left: 68rem;
+  bottom: 3rem;
+}
+
+.search-icon {
+  position: relative;
+  left: 1.2rem;
+  top: 1.4rem;
+}
+.nav-button {
+  position: relative;
+  left: 4rem;
+  bottom: 1rem;
+  padding: 0.6rem 3.5rem;
+  border: 2px solid #000000;
+  border-radius: 12px;
+  font-size: 20px;
+}
+.hero-container {
+  position: relative;
+  width: 90vw;
+  left: 5rem;
+  top: 10rem;
+  height: 77vh;
+}
+
+.square {
+  position: absolute;
+  top: 13.5rem;
+  left: 5rem;
+}
+.hero {
+  position: relative;
+}
+.globe {
+  position: relative;
+  top: 3rem;
+  left: 38rem;
+}
+.star {
+  position: relative;
+  top: 5rem;
+  left: 78rem;
+}
+.star2 {
+  position: absolute;
+  top: 27.5rem;
+  left: 28rem;
+}
+.hero-container-right {
+  position: relative;
+  width: 60vw;
+  left: 27rem;
+  bottom: 18rem;
+}
+
+.hero-heading {
+  font-size: 70px;
+}
+.hero-description {
+  position: absolute;
+  width: 40vw;
+  text-align: center;
+  left: 4rem;
+  top: 6rem;
+  color: #808080;
+}
+
+.button-email {
+  position: absolute;
+  left: 12rem;
+  top: 12rem;
+  padding: 0.5rem 3rem;
+  font-size: 25px;
+  color: #808080;
+  border: 2px solid #000000;
+  border-radius: 12px;
+}
+
+.button-join {
+  position: absolute;
+  left: 30rem;
+  top: 12rem;
+  padding: 0.5rem 2rem;
+  font-size: 25px;
+  border: 2px solid #000000;
+  border-radius: 12px;
+  background-color: #000;
+  color: #fff;
+}
+
+.contact-heading {
+  position: absolute;
+  left: 24rem;
+  top: 16rem;
+  font-size: 25px;
+  color: #808080;
+}
+.icons {
+  position: absolute;
+  left: 22rem;
+  top: 19rem;
+}
