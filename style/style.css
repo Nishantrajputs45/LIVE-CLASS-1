@@ -157,6 +157,9 @@
 }
 .icons {
   position: absolute;
-  left: 22rem;
+  left: 21rem;
   top: 19rem;
+  width: 15rem;
+  display: flex;
+  justify-content: space-between;
 }
